@@ -1,4 +1,5 @@
 # Working with numbers
+# Commonly used math functions
 
 from math import *
 
@@ -56,4 +57,8 @@ print(floor(3.7))
 
 #CEIL: Grabs the highest number
 print(ceil(3.7))
+
+#SQRT: Returns the square root of the number 
+print(sqrt(36))
+
 
