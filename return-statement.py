@@ -2,7 +2,10 @@
 
 # Function that cubes a number. 
 def cube(num):
-    num*num*num
+    return num*num*num
+    # return breaks out of function 'code' will not be printed
+    print("code")
 
-cube(3)
+result = cube(4)
+print(result)
 
