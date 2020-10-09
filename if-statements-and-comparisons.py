@@ -1,3 +1,7 @@
+#if statements and comparisons
+
+#function that compares 3 numbers and prints largest
+
 def max_num(num1, num2, num3):
     if num1 >= num2 and num1 >= num3: 
         return num1
