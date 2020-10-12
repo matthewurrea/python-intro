@@ -4,3 +4,4 @@ Pam - Receptionist
 Michael - Manager 
 Oscar - Accountant 
 Tody - Human Resources
+Kelly - Customer Service
